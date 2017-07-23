@@ -1,2 +1,2 @@
 # Calculator
-simple calci
+A simple GUI python code for manipulation
